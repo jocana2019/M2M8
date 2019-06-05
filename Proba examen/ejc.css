@@ -1,0 +1,55 @@
+.primero{
+  background-color: grey;
+  height: 720px;
+  width: 300px;
+  float: left;
+  margin-left: 0.3em;
+  margin-top: 0.3em;
+}
+.i1{
+  width: 290px;
+  height: none;
+  margin: 0.3em;
+}
+.i2{
+  width: 50px;
+  height: none;
+  margin-left: 0.8em;
+  border-radius: 50px;
+}
+.titulo{
+  font-size: 25px;
+  height: 50px;
+  width: 200px;
+  margin: 0.2em;
+  float: right;
+}
+.idk{
+  height: 40px;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 0;
+}
+.precio{
+  height: 10px;
+  width: 95%;
+  text-align: right;
+  padding-right: 5px;
+}
+.texto{
+  height: 150px;
+  width: 290px;
+  margin: 0.2em;
+  text-align: left;
+  clear: none;
+  font-family: sans-serif;
+}
+li{
+  list-style-type: none;
+  display: inline-block;
+  margin: 0 0.3em;
+}
+a{
+  text-decoration: none;
+}
