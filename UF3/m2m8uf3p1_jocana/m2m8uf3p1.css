@@ -1,0 +1,277 @@
+body{
+  background-color: #DDD;
+  margin: 0 auto;
+}
+
+#cupula{
+  background-color: #FFF;
+  width: auto;
+  height: 100px;
+}
+.cupula{
+  width: 170px;
+  height: auto;
+}
+#cabecera{
+  margin-left: 250px;
+
+}
+#anarcoma{
+  margin-left: 280px;
+  background-color: white;
+  width: 300px;
+  height: 800px;
+  float: left;
+}
+.anarcoma{
+  width: 300px;
+  height: auto;
+}
+#p1{
+  padding: 0 10px;
+}
+#t1{
+  padding: 0 10px;
+}
+#a1{
+  padding: 0 60px;
+}
+#precio{
+  padding-left: 250px;
+  padding-top: 50px;
+}
+#pre{
+  text-align: center;
+}
+#autor1{
+  height: auto;
+  width: 40px;
+  border-radius: 50px;
+}
+
+#pank{
+  margin-left: 20px;
+  background-color: white;
+  width: 300px;
+  height: 800px;
+  float: left;
+
+}
+.pank{
+  width: 300px;
+  height: auto;
+}
+#t2{
+  padding: 0 10px;
+}
+#p2{
+  padding: 0 10px;
+}
+#a2{
+  padding: 0 60px;
+}
+#precio2{
+  padding-left: 250px;
+  padding-top: 50px;
+  padding: 5px;
+}
+#pre2{
+  text-align: center;
+}
+#autor2{
+  height: auto;
+  width: 40px;
+  border-radius: 50px;
+}
+#croqueta{
+  margin-left: 20px;
+  background-color: white;
+  width: 300px;
+  height: 800px;
+  float: left;
+}
+.croqueta{
+  width: 300px;
+  height: auto;
+}
+#t3{
+  padding: 0 10px;
+}
+#p3{
+  padding: 0 10px;
+}
+#a3{
+  padding: 0 60px;
+}
+#precio3{
+  padding-left: 250px;
+  padding-top: 50px;
+  padding: 40px;
+}
+#pre3{
+  text-align: center;
+}
+#autor3{
+  height: auto;
+  width: 40px;
+  border-radius: 50px;
+}
+#sparc{
+  margin-left: 20px;
+  background-color: white;
+  width: 300px;
+  height: 800px;
+  float: left;
+}
+.sparc{
+  width: 300px;
+  height: auto;
+}
+#t4{
+  padding: 0 10px;
+}
+#p4{
+  padding: 0 10px;
+}
+#a4{
+  padding: 0 60px;
+}
+#precio4{
+  padding-left: 250px;
+  padding-top: 50px;
+  padding: 40px;
+}
+#pre4{
+  text-align: center;
+}
+#autor5{
+  height: auto;
+  width: 40px;
+  border-radius: 50px;
+}
+
+#ghost{
+  margin-left: 20px;
+  background-color: white;
+  width: 15.8%;
+  height: 800px;
+  float: left;
+  margin-left: 280px;
+  margin-top: 20px;
+}
+.ghost{
+  width: 300px;
+  height: auto;
+}
+#t5{
+  padding: 0 10px;
+}
+#p5{
+  padding: 0 10px;
+}
+#a5{
+  padding: 0 60px;
+}
+#precio5{
+  padding-left: 250px;
+  padding-top: 50px;
+  padding: 40px;
+}
+#pre5{
+  text-align: center;
+}
+#autor5{
+  height: auto;
+  width: 40px;
+  border-radius: 50px;
+}
+#primeras{
+  margin-left: 20px;
+  background-color: white;
+  width: 15.8%;
+  height: 800px;
+  float: left;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.primeras{
+  width: 300px;
+  height: auto;
+}
+#t6{
+  padding: 0 10px;
+}
+#p6{
+  padding: 0 10px;
+}
+#a6{
+  padding: 0 60px;
+}
+#precio6{
+  padding-left: 250px;
+  padding-top: 50px;
+  padding: 40px;
+}
+#pre6{
+  text-align: center;
+}
+#roja{
+  margin-left: 20px;
+  background-color: white;
+  width: 15.8%;
+  height: 800px;
+  float: left;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.roja{
+  width: 300px;
+  height: auto;
+}
+#t7{
+  padding: 0 10px;
+}
+#p7{
+  padding: 0 10px;
+}
+#a7{
+  padding: 0 60px;
+}
+#precio7{
+  padding-left: 250px;
+  padding-top: 50px;
+  padding: 40px;
+}
+#pre7{
+  text-align: center;
+}
+#follada{
+  margin-left: 20px;
+  background-color: white;
+  width: 15.8%;
+  height: 800px;
+  float: left;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.follada{
+  width: 300px;
+  height: auto;
+}
+#t8{
+  padding: 0 10px;
+}
+#p8{
+  padding: 0 10px;
+}
+#a8{
+  padding: 0 60px;
+}
+#precio8{
+  padding-left: 250px;
+  padding-top: 50px;
+  padding: 40px;
+}
+#pre8{
+  text-align: center;
+}

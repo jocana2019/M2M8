@@ -1,0 +1,64 @@
+#Float02{
+  width: 900px;
+  height: 1000px;
+  border: 1px solid #000;
+  margin: auto;
+}
+
+header{
+  width: 900px;
+  height: 200px;
+  border: 1px solid #000;
+  background: grey;
+}
+#logo{
+  width: 200px;
+  height: 170px;
+  border: 1px solid #000;
+  float: left;
+  background: #D8D8D8;
+}
+
+.menu{
+  width: 360px;
+  height: 40px;
+  border: 1px solid #ccc;
+  float: right;
+  margin-top: 40px;
+  background: #006699;
+}
+
+.menu ul li{
+  list-style: none;
+  float: right;
+}
+
+.menu ul li a{
+  text-decoration: none;
+  padding: 10px 15px;
+  border: 0px solid #ccc;
+  color: #FFF;
+}
+
+#prod{
+  margin-top: 10px;
+  width: 900px;
+  height: 250px;
+}
+#skate{
+  float: left;
+  padding-left: 10px;
+  margin-right: 1em;
+}
+#texto{
+  clear: left;
+  padding-left: 1em;
+  padding-right: 0.5em;
+}
+#pie{
+  width: 900px;
+  height: 90px;
+  border: 1px solid #000;
+  margin: auto;
+  background: #D8D8D8;
+}
